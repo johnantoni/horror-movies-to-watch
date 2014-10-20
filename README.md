@@ -3,8 +3,8 @@ horror-movies-to-watch
 
 a collection of horror movies to watch
 
-* mario barba
-* dario argento
+* Mario Bava - https://en.wikipedia.org/wiki/Mario_Bava
+* dario argento - https://en.wikipedia.org/wiki/Dario_Argento
 * la diabolique / Diabolique
 * 
 
