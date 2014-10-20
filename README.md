@@ -6,7 +6,7 @@ a collection of horror movies to watch
 * Mario Bava - https://en.wikipedia.org/wiki/Mario_Bava
 * dario argento - https://en.wikipedia.org/wiki/Dario_Argento
 * la diabolique / Diabolique
-* 
+* daughters of darkness
 
 * night of the demon
 * tomb of ligeia
